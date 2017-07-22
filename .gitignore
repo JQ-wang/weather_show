@@ -1,5 +1,6 @@
 .DS_Store
-dist/
+node_modules/
 npm-debug.log
 selenium-debug.log
 .idea
+目录结构.png
